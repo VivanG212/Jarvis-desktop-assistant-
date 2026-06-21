@@ -4,7 +4,7 @@ Jarvis is a low-latency, voice-activated personal assistant built in Python. Pow
 
 Built to mimic a lightweight, localized AI companion, it completely bypasses heavy web interfaces for an immediate, responsive, and invisible desktop experience.
 
-## ✨ Features
+##  Features
 
 *  Real-Time Voice Processing:** Listen naturally; Jarvis processes microphone inputs seamlessly.
 *  Persistent Context Memory:** Remembers user data (like your name or preferences) across interactions using localized JSON state tracking.
